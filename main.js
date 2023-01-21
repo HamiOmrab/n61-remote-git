@@ -1,1 +1,2 @@
-const e = 2;
+// Auteur : Jonathan Martel
+console.log("test")
